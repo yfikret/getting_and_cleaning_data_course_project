@@ -1,5 +1,11 @@
 # Code Book
 
+Human activity data is obtained from accelerometers from a Samsung Galaxy S smartphone.
+six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) 
+3-axial linear acceleration and 3-axial angular velocity using the accelerometer and gyroscope 
+Randomly partitioned into test and training sets
+Features were extracted from the data, such as mean and standard deviation
+
 ## Used files
 
 'train/subject_train.txt': subject id for training data
